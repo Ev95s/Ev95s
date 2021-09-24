@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ev95s
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me X00177982@mytudublin.ie
 
 <!---
